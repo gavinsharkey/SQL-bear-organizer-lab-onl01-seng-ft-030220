@@ -1,16 +1,16 @@
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ('Mr. Chocolate');
+VALUES ('Mr. Chocolate', 7, 'male', 'brown', 'evil', true);
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ('Rowdy');
+VALUES ('Rowdy', 7, 'male', 'brown', 'evil', true);
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ('Tabitha');
+VALUES ('Tabitha', 7, 'male', 'brown', 'evil', true);
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ('Sergeant Brown');
+VALUES ('Sergeant Brown', 7, 'male', 'brown', 'evil', true);
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ('');
+VALUES ('Melissa', 7, 'male', 'brown', 'evil', true);
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ('');
+VALUES ('Grinch', 7, 'male', 'brown', 'evil', true);
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ('');
+VALUES ('Wendy', 7, 'male', 'brown', 'evil', true);
 INSERT INTO bears (name, age, gender, color, temperament, alive)
-VALUES ('');
+VALUES (NULL, 7, 'male', 'brown', 'evil', true);
